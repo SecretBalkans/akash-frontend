@@ -4,7 +4,7 @@
     <div v-if="!props.withdraw">Stake fee: {{ stakingFees?.deposit / 1000 }}%</div>
     <div v-else>Withdraw fee: {{ stakingFees?.withdraw / 1000 }}%</div>
     <div>Withdraw Period: 21 days + batch time (0-3 days)</div>
-    <div>stkd-SCRT APY: ~26%</div>
+    <div>stkd-SCRT APY: ~15.15%</div>
   </div>
 </template>
 <script setup lang="ts">
