@@ -27,7 +27,7 @@ Steps of route calculation:
 ![image](https://github.com/SecretBalkans/shad-staker/assets/57235266/5652a46a-aede-417d-85bc-e7841d94fe4a)
 
 ## Usage
-Dapp is hosted on akash [chru9tefsdejb827ucvsekgbb8.ingress.milestone.pt](http://chru9tefsdejb827ucvsekgbb8.ingress.milestone.pt) <br/>
+Dapp is hosted on akash https://rmknfok6bt93569c1mur7aj6mc.ingress.d3akash.cloud/ <br/>
 
 A demo docker image is pushed on dockerhub `docker pull antonymousn/shad-staker:nginx-test-1` <br/>
 
